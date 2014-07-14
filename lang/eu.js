@@ -24,11 +24,13 @@
             LLL : "YYYY[ko] MMMM[ren] D[a] LT",
             LLLL : "dddd, YYYY[ko] MMMM[ren] D[a] LT",
             ZL : "dddd, YYYY[ko] MMMM[ren] D[a]",
+            ZLL : "MMMM[ren] D[a]",
             l : "YYYY-M-D",
             ll : "YYYY[ko] MMM D[a]",
             lll : "YYYY[ko] MMM D[a] LT",
             llll : "ddd, YYYY[ko] MMM D[a] LT",
-            zl : "ddd, YYYY[ko] MMM D[a]"
+            zl : "ddd, YYYY[ko] MMM D[a]",
+            zll : "MMM D[a]"
         },
         calendar : {
             sameDay : '[gaur] LT[etan]',

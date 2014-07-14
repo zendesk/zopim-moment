@@ -747,7 +747,8 @@
             LL : "MMMM D YYYY",
             LLL : "MMMM D YYYY LT",
             LLLL : "dddd, MMMM D YYYY LT",
-            ZL : "dddd, MMMM D YYYY"
+            ZL : "dddd, MMMM D YYYY",
+            ZLL : "MMMM D"
         },
         longDateFormat : function (key) {
             var output = this._longDateFormat[key];

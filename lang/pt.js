@@ -23,7 +23,8 @@
             LL : "D [de] MMMM [de] YYYY",
             LLL : "D [de] MMMM [de] YYYY LT",
             LLLL : "dddd, D [de] MMMM [de] YYYY LT",
-            ZL : "dddd, D [de] MMMM [de] YYYY"
+            ZL : "dddd, D [de] MMMM [de] YYYY",
+            ZLL : "D [de] MMMM"
         },
         calendar : {
             sameDay: '[Hoje às] LT',

@@ -49,7 +49,8 @@
             LL : "D MMMM YYYY թ.",
             LLL : "D MMMM YYYY թ., LT",
             LLLL : "dddd, D MMMM YYYY թ., LT",
-            ZL : "dddd, D MMMM YYYY թ."
+            ZL : "dddd, D MMMM YYYY թ.",
+            ZLL : "D MMMM"
         },
         calendar : {
             sameDay: '[այսօր] LT',

@@ -38,7 +38,8 @@
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
             LLLL : "dddd, D MMMM YYYY LT",
-            ZL : "dddd, D MMMM YYYY"
+            ZL : "dddd, D MMMM YYYY",
+            ZLL : "D MMMM"
         },
         calendarEl : {
             sameDay : '[Σήμερα {}] LT',

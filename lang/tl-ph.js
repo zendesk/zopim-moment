@@ -23,7 +23,8 @@
             LL : "MMMM D, YYYY",
             LLL : "MMMM D, YYYY LT",
             LLLL : "dddd, MMMM DD, YYYY LT",
-            ZL : "dddd, MMMM DD, YYYY"
+            ZL : "dddd, MMMM DD, YYYY",
+            ZLL : "MMMM D"
         },
         calendar : {
             sameDay: "[Ngayon sa] LT",

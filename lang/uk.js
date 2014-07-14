@@ -83,7 +83,8 @@
             LL : "D MMMM YYYY р.",
             LLL : "D MMMM YYYY р., LT",
             LLLL : "dddd, D MMMM YYYY р., LT",
-            ZL : "dddd, D MMMM YYYY р."
+            ZL : "dddd, D MMMM YYYY р.",
+            ZLL : "D MMMM"
         },
         calendar : {
             sameDay: processHoursFunction('[Сьогодні '),

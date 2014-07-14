@@ -25,7 +25,8 @@
             LL : "D[-an de] MMMM, YYYY",
             LLL : "D[-an de] MMMM, YYYY LT",
             LLLL : "dddd, [la] D[-an de] MMMM, YYYY LT",
-            ZL : "dddd, [la] D[-an de] MMMM, YYYY"
+            ZL : "dddd, [la] D[-an de] MMMM, YYYY",
+            ZLL : "D[-an de] MMMM"
         },
         meridiem : function (hours, minutes, isLower) {
             if (hours > 11) {

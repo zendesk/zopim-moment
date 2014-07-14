@@ -71,7 +71,8 @@
             LL : "D [a viz] MMMM YYYY",
             LLL : "D [a viz] MMMM YYYY LT",
             LLLL : "dddd, D [a viz] MMMM YYYY LT",
-            ZL : "dddd, D [a viz] MMMM YYYY"
+            ZL : "dddd, D [a viz] MMMM YYYY",
+            ZLL : "D [a viz] MMMM"
         },
         calendar : {
             sameDay : '[Hiziv da] LT',

@@ -23,7 +23,8 @@
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY เวลา LT",
             LLLL : "วันddddที่ D MMMM YYYY เวลา LT",
-            ZL : "วันddddที่ D MMMM YYYY"
+            ZL : "วันddddที่ D MMMM YYYY",
+            ZLL : "D MMMM"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {

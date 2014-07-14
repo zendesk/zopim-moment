@@ -85,7 +85,8 @@
             LL : "D MMMM YYYY г.",
             LLL : "D MMMM YYYY г., LT",
             LLLL : "dddd, D MMMM YYYY г., LT",
-            ZL : "dddd, D MMMM YYYY г."
+            ZL : "dddd, D MMMM YYYY г.",
+            ZLL : "D MMMM"
         },
         calendar : {
             sameDay: '[Сегодня в] LT',

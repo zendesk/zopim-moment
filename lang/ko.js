@@ -26,7 +26,8 @@
             LL : "YYYY년 MMMM D일",
             LLL : "YYYY년 MMMM D일 LT",
             LLLL : "YYYY년 MMMM D일 dddd LT",
-            ZL : "YYYY년 MMMM D일 dddd"
+            ZL : "YYYY년 MMMM D일 dddd",
+            ZLL : "MMMM D일"
         },
         meridiem : function (hour, minute, isUpper) {
             return hour < 12 ? '오전' : '오후';
