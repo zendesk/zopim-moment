@@ -23,7 +23,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: "[اليوم على الساعة] LT",
@@ -103,7 +104,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {
@@ -201,7 +203,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {
@@ -300,7 +303,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[bugün saat] LT',
@@ -377,7 +381,8 @@
             L : "D.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[Днес в] LT',
@@ -489,7 +494,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY, LT",
-            LLLL : "dddd, D MMMM YYYY, LT"
+            LLLL : "dddd, D MMMM YYYY, LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[আজ] LT',
@@ -619,7 +625,8 @@
             L : "DD/MM/YYYY",
             LL : "D [a viz] MMMM YYYY",
             LLL : "D [a viz] MMMM YYYY LT",
-            LLLL : "dddd, D [a viz] MMMM YYYY LT"
+            LLLL : "dddd, D [a viz] MMMM YYYY LT",
+            ZL : "dddd, D [a viz] MMMM YYYY"
         },
         calendar : {
             sameDay : '[Hiziv da] LT',
@@ -734,7 +741,8 @@
             L : "DD. MM. YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd, D. MMMM YYYY LT"
+            LLLL : "dddd, D. MMMM YYYY LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay  : '[danas u] LT',
@@ -819,7 +827,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay : function () {
@@ -954,7 +963,8 @@
             L : "DD. MM. YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd D. MMMM YYYY LT"
+            LLLL : "dddd D. MMMM YYYY LT",
+            ZL : "dddd D. MMMM YYYY"
         },
         calendar : {
             sameDay: "[dnes v] LT",
@@ -1042,7 +1052,8 @@
             L : "DD-MM-YYYY",
             LL : "YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ]",
             LLL : "YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ], LT",
-            LLLL : "dddd, YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ], LT"
+            LLLL : "dddd, YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ], LT",
+            ZL : "dddd, YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ]"
         },
         calendar : {
             sameDay: '[Паян] LT [сехетре]',
@@ -1103,7 +1114,8 @@
             L: "DD/MM/YYYY",
             LL: "D MMMM YYYY",
             LLL: "D MMMM YYYY LT",
-            LLLL: "dddd, D MMMM YYYY LT"
+            LLLL: "dddd, D MMMM YYYY LT",
+            ZL: "dddd, D MMMM YYYY"
         },
         calendar: {
             sameDay: '[Heddiw am] LT',
@@ -1180,7 +1192,8 @@
             L : "DD/MM/YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd [d.] D. MMMM YYYY LT"
+            LLLL : "dddd [d.] D. MMMM YYYY LT",
+            ZL : "dddd [d.] D. MMMM YYYY"
         },
         calendar : {
             sameDay : '[I dag kl.] LT',
@@ -1253,7 +1266,8 @@
             L : "DD.MM.YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd, D. MMMM YYYY LT"
+            LLLL : "dddd, D. MMMM YYYY LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay: "[Heute um] LT",
@@ -1325,7 +1339,8 @@
             L : "DD.MM.YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd, D. MMMM YYYY LT"
+            LLLL : "dddd, D. MMMM YYYY LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay: "[Heute um] LT",
@@ -1397,7 +1412,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendarEl : {
             sameDay : '[Σήμερα {}] LT',
@@ -1472,7 +1488,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[Today at] LT',
@@ -1536,7 +1553,8 @@
             L : "YYYY-MM-DD",
             LL : "D MMMM, YYYY",
             LLL : "D MMMM, YYYY LT",
-            LLLL : "dddd, D MMMM, YYYY LT"
+            LLLL : "dddd, D MMMM, YYYY LT",
+            ZL : "dddd, D MMMM, YYYY"
         },
         calendar : {
             sameDay : '[Today at] LT',
@@ -1596,7 +1614,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[Today at] LT',
@@ -1662,7 +1681,8 @@
             L : "YYYY-MM-DD",
             LL : "D[-an de] MMMM, YYYY",
             LLL : "D[-an de] MMMM, YYYY LT",
-            LLLL : "dddd, [la] D[-an de] MMMM, YYYY LT"
+            LLLL : "dddd, [la] D[-an de] MMMM, YYYY LT",
+            ZL : "dddd, [la] D[-an de] MMMM, YYYY"
         },
         meridiem : function (hours, minutes, isLower) {
             if (hours > 11) {
@@ -1735,7 +1755,8 @@
             L : "DD/MM/YYYY",
             LL : "D [de] MMMM [del] YYYY",
             LLL : "D [de] MMMM [del] YYYY LT",
-            LLLL : "dddd, D [de] MMMM [del] YYYY LT"
+            LLLL : "dddd, D [de] MMMM [del] YYYY LT",
+            ZL : "dddd, D [de] MMMM [del] YYYY"
         },
         calendar : {
             sameDay : function () {
@@ -1822,7 +1843,8 @@
             L    : "DD.MM.YYYY",
             LL   : "D. MMMM YYYY",
             LLL  : "D. MMMM YYYY LT",
-            LLLL : "dddd, D. MMMM YYYY LT"
+            LLLL : "dddd, D. MMMM YYYY LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay  : '[Täna,] LT',
@@ -1880,10 +1902,12 @@
             LL : "YYYY[ko] MMMM[ren] D[a]",
             LLL : "YYYY[ko] MMMM[ren] D[a] LT",
             LLLL : "dddd, YYYY[ko] MMMM[ren] D[a] LT",
+            ZL : "dddd, YYYY[ko] MMMM[ren] D[a]",
             l : "YYYY-M-D",
             ll : "YYYY[ko] MMM D[a]",
             lll : "YYYY[ko] MMM D[a] LT",
-            llll : "ddd, YYYY[ko] MMM D[a] LT"
+            llll : "ddd, YYYY[ko] MMM D[a] LT",
+            zl : "ddd, YYYY[ko] MMM D[a]"
         },
         calendar : {
             sameDay : '[gaur] LT[etan]',
@@ -1964,7 +1988,8 @@
             L : 'DD/MM/YYYY',
             LL : 'D MMMM YYYY',
             LLL : 'D MMMM YYYY LT',
-            LLLL : 'dddd, D MMMM YYYY LT'
+            LLLL : 'dddd, D MMMM YYYY LT',
+            ZL : 'dddd, D MMMM YYYY'
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {
@@ -2082,10 +2107,12 @@
             LL : "Do MMMM[ta] YYYY",
             LLL : "Do MMMM[ta] YYYY, [klo] LT",
             LLLL : "dddd, Do MMMM[ta] YYYY, [klo] LT",
+            ZL : "dddd, Do MMMM[ta] YYYY",
             l : "D.M.YYYY",
             ll : "Do MMM YYYY",
             lll : "Do MMM YYYY, [klo] LT",
-            llll : "ddd, Do MMM YYYY, [klo] LT"
+            llll : "ddd, Do MMM YYYY, [klo] LT",
+            zl : "ddd, Do MMM YYYY"
         },
         calendar : {
             sameDay : '[tänään] [klo] LT',
@@ -2142,7 +2169,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D. MMMM, YYYY LT"
+            LLLL : "dddd D. MMMM, YYYY LT",
+            ZL : "dddd D. MMMM, YYYY"
         },
         calendar : {
             sameDay : '[Í dag kl.] LT',
@@ -2199,7 +2227,8 @@
             L : "YYYY-MM-DD",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: "[Aujourd'hui à] LT",
@@ -2254,7 +2283,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: "[Aujourd'hui à] LT",
@@ -2313,7 +2343,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay : function () {
@@ -2388,10 +2419,12 @@
             LL : "D [ב]MMMM YYYY",
             LLL : "D [ב]MMMM YYYY LT",
             LLLL : "dddd, D [ב]MMMM YYYY LT",
+            ZL : "dddd, D [ב]MMMM YYYY",
             l : "D/M/YYYY",
             ll : "D MMM YYYY",
             lll : "D MMM YYYY LT",
-            llll : "ddd, D MMM YYYY LT"
+            llll : "ddd, D MMM YYYY LT",
+            zl : "ddd, D MMM YYYY"
         },
         calendar : {
             sameDay : '[היום ב־]LT',
@@ -2488,7 +2521,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY, LT",
-            LLLL : "dddd, D MMMM YYYY, LT"
+            LLLL : "dddd, D MMMM YYYY, LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[आज] LT',
@@ -2625,7 +2659,8 @@
             L : "DD. MM. YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd, D. MMMM YYYY LT"
+            LLLL : "dddd, D. MMMM YYYY LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay  : '[danas u] LT',
@@ -2748,7 +2783,8 @@
             L : "YYYY.MM.DD.",
             LL : "YYYY. MMMM D.",
             LLL : "YYYY. MMMM D., LT",
-            LLLL : "YYYY. MMMM D., dddd LT"
+            LLLL : "YYYY. MMMM D., dddd LT",
+            ZL : "YYYY. MMMM D., dddd"
         },
         meridiem : function (hours, minutes, isLower) {
             if (hours < 12) {
@@ -2842,7 +2878,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY թ.",
             LLL : "D MMMM YYYY թ., LT",
-            LLLL : "dddd, D MMMM YYYY թ., LT"
+            LLLL : "dddd, D MMMM YYYY թ., LT",
+            ZL : "dddd, D MMMM YYYY թ."
         },
         calendar : {
             sameDay: '[այսօր] LT',
@@ -2931,7 +2968,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY [pukul] LT",
-            LLLL : "dddd, D MMMM YYYY [pukul] LT"
+            LLLL : "dddd, D MMMM YYYY [pukul] LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         meridiem : function (hours, minutes, isLower) {
             if (hours < 11) {
@@ -3066,7 +3104,8 @@
             L : "DD/MM/YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY [kl.] LT",
-            LLLL : "dddd, D. MMMM YYYY [kl.] LT"
+            LLLL : "dddd, D. MMMM YYYY [kl.] LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay : '[í dag kl.] LT',
@@ -3124,7 +3163,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay: '[Oggi alle] LT',
@@ -3183,7 +3223,8 @@
             L : "YYYY/MM/DD",
             LL : "YYYY年M月D日",
             LLL : "YYYY年M月D日LT",
-            LLLL : "YYYY年M月D日LT dddd"
+            LLLL : "YYYY年M月D日LT dddd",
+            ZL : "YYYY年M月D日 dddd"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {
@@ -3269,7 +3310,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[დღეს] LT[-ზე]',
@@ -3351,7 +3393,8 @@
             L: "DD/MM/YYYY",
             LL: "D MMMM YYYY",
             LLL: "D MMMM YYYY LT",
-            LLLL: "dddd, D MMMM YYYY LT"
+            LLLL: "dddd, D MMMM YYYY LT",
+            ZL: "dddd, D MMMM YYYY"
         },
         calendar: {
             sameDay: '[ថ្ងៃនៈ ម៉ោង] LT',
@@ -3410,7 +3453,8 @@
             L : "YYYY.MM.DD",
             LL : "YYYY년 MMMM D일",
             LLL : "YYYY년 MMMM D일 LT",
-            LLLL : "YYYY년 MMMM D일 dddd LT"
+            LLLL : "YYYY년 MMMM D일 dddd LT",
+            ZL : "YYYY년 MMMM D일 dddd"
         },
         meridiem : function (hour, minute, isUpper) {
             return hour < 12 ? '오전' : '오후';
@@ -3575,7 +3619,8 @@
             L: "DD.MM.YYYY",
             LL: "D. MMMM YYYY",
             LLL: "D. MMMM YYYY LT",
-            LLLL: "dddd, D. MMMM YYYY LT"
+            LLLL: "dddd, D. MMMM YYYY LT",
+            ZL: "dddd, D. MMMM YYYY"
         },
         calendar: {
             sameDay: "[Haut um] LT",
@@ -3689,10 +3734,12 @@
             LL : "YYYY [m.] MMMM D [d.]",
             LLL : "YYYY [m.] MMMM D [d.], LT [val.]",
             LLLL : "YYYY [m.] MMMM D [d.], dddd, LT [val.]",
+            ZL : "YYYY [m.] MMMM D [d.], dddd",
             l : "YYYY-MM-DD",
             ll : "YYYY [m.] MMMM D [d.]",
             lll : "YYYY [m.] MMMM D [d.], LT [val.]",
-            llll : "YYYY [m.] MMMM D [d.], ddd, LT [val.]"
+            llll : "YYYY [m.] MMMM D [d.], ddd, LT [val.]",
+            zl : "YYYY [m.] MMMM D [d.], ddd"
         },
         calendar : {
             sameDay : "[Šiandien] LT",
@@ -3772,7 +3819,8 @@
             L : "DD.MM.YYYY",
             LL : "YYYY. [gada] D. MMMM",
             LLL : "YYYY. [gada] D. MMMM, LT",
-            LLLL : "YYYY. [gada] D. MMMM, dddd, LT"
+            LLLL : "YYYY. [gada] D. MMMM, dddd, LT",
+            ZL : "YYYY. [gada] D. MMMM, dddd"
         },
         calendar : {
             sameDay : '[Šodien pulksten] LT',
@@ -3829,7 +3877,8 @@
             L : "D.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[Денес во] LT',
@@ -3916,7 +3965,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY, LT",
-            LLLL : "dddd, D MMMM YYYY, LT"
+            LLLL : "dddd, D MMMM YYYY, LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[ഇന്ന്] LT',
@@ -4006,7 +4056,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY, LT",
-            LLLL : "dddd, D MMMM YYYY, LT"
+            LLLL : "dddd, D MMMM YYYY, LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[आज] LT',
@@ -4086,7 +4137,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY [pukul] LT",
-            LLLL : "dddd, D MMMM YYYY [pukul] LT"
+            LLLL : "dddd, D MMMM YYYY [pukul] LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         meridiem : function (hours, minutes, isLower) {
             if (hours < 11) {
@@ -4154,7 +4206,8 @@
             L : "DD.MM.YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY [kl.] LT",
-            LLLL : "dddd D. MMMM YYYY [kl.] LT"
+            LLLL : "dddd D. MMMM YYYY [kl.] LT",
+            ZL : "dddd D. MMMM YYYY"
         },
         calendar : {
             sameDay: '[i dag kl.] LT',
@@ -4236,7 +4289,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY, LT",
-            LLLL : "dddd, D MMMM YYYY, LT"
+            LLLL : "dddd, D MMMM YYYY, LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         preparse: function (string) {
             return string.replace(/[१२३४५६७८९०]/g, function (match) {
@@ -4326,7 +4380,8 @@
             L : "DD-MM-YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: '[vandaag om] LT',
@@ -4385,7 +4440,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: '[I dag klokka] LT',
@@ -4473,7 +4529,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay: '[Dziś o] LT',
@@ -4541,7 +4598,8 @@
             L : "DD/MM/YYYY",
             LL : "D [de] MMMM [de] YYYY",
             LLL : "D [de] MMMM [de] YYYY [às] LT",
-            LLLL : "dddd, D [de] MMMM [de] YYYY [às] LT"
+            LLLL : "dddd, D [de] MMMM [de] YYYY [às] LT",
+            ZL : "dddd, D [de] MMMM [de] YYYY"
         },
         calendar : {
             sameDay: '[Hoje às] LT',
@@ -4598,7 +4656,8 @@
             L : "DD/MM/YYYY",
             LL : "D [de] MMMM [de] YYYY",
             LLL : "D [de] MMMM [de] YYYY LT",
-            LLLL : "dddd, D [de] MMMM [de] YYYY LT"
+            LLLL : "dddd, D [de] MMMM [de] YYYY LT",
+            ZL : "dddd, D [de] MMMM [de] YYYY"
         },
         calendar : {
             sameDay: '[Hoje às] LT',
@@ -4676,7 +4735,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY H:mm",
-            LLLL : "dddd, D MMMM YYYY H:mm"
+            LLLL : "dddd, D MMMM YYYY H:mm",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay: "[azi la] LT",
@@ -4794,7 +4854,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY г.",
             LLL : "D MMMM YYYY г., LT",
-            LLLL : "dddd, D MMMM YYYY г., LT"
+            LLLL : "dddd, D MMMM YYYY г., LT",
+            ZL : "dddd, D MMMM YYYY г."
         },
         calendar : {
             sameDay: '[Сегодня в] LT',
@@ -4968,7 +5029,8 @@
             L : "DD.MM.YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd D. MMMM YYYY LT"
+            LLLL : "dddd D. MMMM YYYY LT",
+            ZL : "dddd D. MMMM YYYY"
         },
         calendar : {
             sameDay: "[dnes o] LT",
@@ -5117,7 +5179,8 @@
             L : "DD. MM. YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd, D. MMMM YYYY LT"
+            LLLL : "dddd, D. MMMM YYYY LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay  : '[danes ob] LT',
@@ -5206,7 +5269,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[Sot në] LT',
@@ -5287,7 +5351,8 @@
             L: "DD. MM. YYYY",
             LL: "D. MMMM YYYY",
             LLL: "D. MMMM YYYY LT",
-            LLLL: "dddd, D. MMMM YYYY LT"
+            LLLL: "dddd, D. MMMM YYYY LT",
+            ZL: "dddd, D. MMMM YYYY"
         },
         calendar: {
             sameDay: '[данас у] LT',
@@ -5394,7 +5459,8 @@
             L: "DD. MM. YYYY",
             LL: "D. MMMM YYYY",
             LLL: "D. MMMM YYYY LT",
-            LLLL: "dddd, D. MMMM YYYY LT"
+            LLLL: "dddd, D. MMMM YYYY LT",
+            ZL: "dddd, D. MMMM YYYY"
         },
         calendar: {
             sameDay: '[danas u] LT',
@@ -5477,7 +5543,8 @@
             L : "YYYY-MM-DD",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: '[Idag] LT',
@@ -5566,7 +5633,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY, LT",
-            LLLL : "dddd, D MMMM YYYY, LT"
+            LLLL : "dddd, D MMMM YYYY, LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[இன்று] LT',
@@ -5654,7 +5722,8 @@
             L : "YYYY/MM/DD",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY เวลา LT",
-            LLLL : "วันddddที่ D MMMM YYYY เวลา LT"
+            LLLL : "วันddddที่ D MMMM YYYY เวลา LT",
+            ZL : "วันddddที่ D MMMM YYYY"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {
@@ -5713,7 +5782,8 @@
             L : "MM/D/YYYY",
             LL : "MMMM D, YYYY",
             LLL : "MMMM D, YYYY LT",
-            LLLL : "dddd, MMMM DD, YYYY LT"
+            LLLL : "dddd, MMMM DD, YYYY LT",
+            ZL : "dddd, MMMM DD, YYYY"
         },
         calendar : {
             sameDay: "[Ngayon sa] LT",
@@ -5800,7 +5870,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd, D MMMM YYYY LT"
+            LLLL : "dddd, D MMMM YYYY LT",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay : '[bugün saat] LT',
@@ -5866,7 +5937,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: "[asdkh g] LT",
@@ -5922,7 +5994,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "dddd D MMMM YYYY LT"
+            LLLL : "dddd D MMMM YYYY LT",
+            ZL : "dddd D MMMM YYYY"
         },
         calendar : {
             sameDay: "[ⴰⵙⴷⵅ ⴴ] LT",
@@ -6038,7 +6111,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY р.",
             LLL : "D MMMM YYYY р., LT",
-            LLLL : "dddd, D MMMM YYYY р., LT"
+            LLLL : "dddd, D MMMM YYYY р., LT",
+            ZL : "dddd, D MMMM YYYY р."
         },
         calendar : {
             sameDay: processHoursFunction('[Сьогодні '),
@@ -6136,7 +6210,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "D MMMM YYYY, dddd LT"
+            LLLL : "D MMMM YYYY, dddd LT",
+            ZL : "D MMMM YYYY, dddd"
         },
         calendar : {
             sameDay : '[Бугун соат] LT [да]',
@@ -6193,10 +6268,12 @@
             LL : "D MMMM [năm] YYYY",
             LLL : "D MMMM [năm] YYYY LT",
             LLLL : "dddd, D MMMM [năm] YYYY LT",
+            ZL : "dddd, D MMMM [năm] YYYY",
             l : "DD/M/YYYY",
             ll : "D MMM YYYY",
             lll : "D MMM YYYY LT",
-            llll : "ddd, D MMM YYYY LT"
+            llll : "ddd, D MMM YYYY LT",
+            zl : "ddd, D MMM YYYY"
         },
         calendar : {
             sameDay: "[Hôm nay lúc] LT",
@@ -6257,10 +6334,12 @@
             LL : "YYYY年MMMD日",
             LLL : "YYYY年MMMD日LT",
             LLLL : "YYYY年MMMD日ddddLT",
+            ZL : "YYYY年MMMD日dddd",
             l : "YYYY-MM-DD",
             ll : "YYYY年MMMD日",
             lll : "YYYY年MMMD日LT",
-            llll : "YYYY年MMMD日ddddLT"
+            llll : "YYYY年MMMD日ddddLT",
+            zl : "YYYY年MMMD日dddd"
         },
         meridiem : function (hour, minute, isLower) {
             var hm = hour * 100 + minute;
@@ -6365,10 +6444,12 @@
             LL : "YYYY年MMMD日",
             LLL : "YYYY年MMMD日LT",
             LLLL : "YYYY年MMMD日ddddLT",
+            ZL : "YYYY年MMMD日dddd",
             l : "YYYY年MMMD日",
             ll : "YYYY年MMMD日",
             lll : "YYYY年MMMD日LT",
-            llll : "YYYY年MMMD日ddddLT"
+            llll : "YYYY年MMMD日ddddLT",
+            zl : "YYYY年MMMD日dddd"
         },
         meridiem : function (hour, minute, isLower) {
             var hm = hour * 100 + minute;
