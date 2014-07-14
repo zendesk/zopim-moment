@@ -60,7 +60,8 @@
             L : "YYYY.MM.DD.",
             LL : "YYYY. MMMM D.",
             LLL : "YYYY. MMMM D., LT",
-            LLLL : "YYYY. MMMM D., dddd LT"
+            LLLL : "YYYY. MMMM D., dddd LT",
+            ZL : "YYYY. MMMM D., dddd"
         },
         meridiem : function (hours, minutes, isLower) {
             if (hours < 12) {

@@ -90,7 +90,8 @@
             L : "DD/MM/YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY [kl.] LT",
-            LLLL : "dddd, D. MMMM YYYY [kl.] LT"
+            LLLL : "dddd, D. MMMM YYYY [kl.] LT",
+            ZL : "dddd, D. MMMM YYYY"
         },
         calendar : {
             sameDay : '[í dag kl.] LT',

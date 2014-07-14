@@ -22,7 +22,8 @@
             L : "DD/MM/YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY LT",
-            LLLL : "D MMMM YYYY, dddd LT"
+            LLLL : "D MMMM YYYY, dddd LT",
+            ZL : "D MMMM YYYY, dddd"
         },
         calendar : {
             sameDay : '[Бугун соат] LT [да]',

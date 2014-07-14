@@ -22,7 +22,8 @@
             L : "DD/MM/YYYY",
             LL : "D. MMMM YYYY",
             LLL : "D. MMMM YYYY LT",
-            LLLL : "dddd [d.] D. MMMM YYYY LT"
+            LLLL : "dddd [d.] D. MMMM YYYY LT",
+            ZL : "dddd [d.] D. MMMM YYYY"
         },
         calendar : {
             sameDay : '[I dag kl.] LT',

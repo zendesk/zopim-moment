@@ -22,7 +22,8 @@
             L : "YYYY/MM/DD",
             LL : "YYYY年M月D日",
             LLL : "YYYY年M月D日LT",
-            LLLL : "YYYY年M月D日LT dddd"
+            LLLL : "YYYY年M月D日LT dddd",
+            ZL : "YYYY年M月D日 dddd"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {

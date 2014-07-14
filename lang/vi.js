@@ -23,10 +23,12 @@
             LL : "D MMMM [năm] YYYY",
             LLL : "D MMMM [năm] YYYY LT",
             LLLL : "dddd, D MMMM [năm] YYYY LT",
+            ZL : "dddd, D MMMM [năm] YYYY",
             l : "DD/M/YYYY",
             ll : "D MMM YYYY",
             lll : "D MMM YYYY LT",
-            llll : "ddd, D MMM YYYY LT"
+            llll : "ddd, D MMM YYYY LT",
+            zl : "ddd, D MMM YYYY"
         },
         calendar : {
             sameDay: "[Hôm nay lúc] LT",

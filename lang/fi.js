@@ -66,10 +66,12 @@
             LL : "Do MMMM[ta] YYYY",
             LLL : "Do MMMM[ta] YYYY, [klo] LT",
             LLLL : "dddd, Do MMMM[ta] YYYY, [klo] LT",
+            ZL : "dddd, Do MMMM[ta] YYYY",
             l : "D.M.YYYY",
             ll : "Do MMM YYYY",
             lll : "Do MMM YYYY, [klo] LT",
-            llll : "ddd, Do MMM YYYY, [klo] LT"
+            llll : "ddd, Do MMM YYYY, [klo] LT",
+            zl : "ddd, Do MMM YYYY"
         },
         calendar : {
             sameDay : '[tänään] [klo] LT',

@@ -25,10 +25,12 @@
             LL : "D [ב]MMMM YYYY",
             LLL : "D [ב]MMMM YYYY LT",
             LLLL : "dddd, D [ב]MMMM YYYY LT",
+            ZL : "dddd, D [ב]MMMM YYYY",
             l : "D/M/YYYY",
             ll : "D MMM YYYY",
             lll : "D MMM YYYY LT",
-            llll : "ddd, D MMM YYYY LT"
+            llll : "ddd, D MMM YYYY LT",
+            zl : "ddd, D MMM YYYY"
         },
         calendar : {
             sameDay : '[היום ב־]LT',

@@ -24,10 +24,12 @@
             LL : "YYYY年MMMD日",
             LLL : "YYYY年MMMD日LT",
             LLLL : "YYYY年MMMD日ddddLT",
+            ZL : "YYYY年MMMD日dddd",
             l : "YYYY-MM-DD",
             ll : "YYYY年MMMD日",
             lll : "YYYY年MMMD日LT",
-            llll : "YYYY年MMMD日ddddLT"
+            llll : "YYYY年MMMD日ddddLT",
+            zl : "YYYY年MMMD日dddd"
         },
         meridiem : function (hour, minute, isLower) {
             var hm = hour * 100 + minute;

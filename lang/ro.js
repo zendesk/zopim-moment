@@ -39,7 +39,8 @@
             L : "DD.MM.YYYY",
             LL : "D MMMM YYYY",
             LLL : "D MMMM YYYY H:mm",
-            LLLL : "dddd, D MMMM YYYY H:mm"
+            LLLL : "dddd, D MMMM YYYY H:mm",
+            ZL : "dddd, D MMMM YYYY"
         },
         calendar : {
             sameDay: "[azi la] LT",

@@ -31,7 +31,8 @@
             L : "DD/MM/YYYY",
             LL : "D [de] MMMM [del] YYYY",
             LLL : "D [de] MMMM [del] YYYY LT",
-            LLLL : "dddd, D [de] MMMM [del] YYYY LT"
+            LLLL : "dddd, D [de] MMMM [del] YYYY LT",
+            ZL : "dddd, D [de] MMMM [del] YYYY"
         },
         calendar : {
             sameDay : function () {

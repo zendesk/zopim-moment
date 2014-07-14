@@ -79,10 +79,12 @@
             LL : "YYYY [m.] MMMM D [d.]",
             LLL : "YYYY [m.] MMMM D [d.], LT [val.]",
             LLLL : "YYYY [m.] MMMM D [d.], dddd, LT [val.]",
+            ZL : "YYYY [m.] MMMM D [d.], dddd",
             l : "YYYY-MM-DD",
             ll : "YYYY [m.] MMMM D [d.]",
             lll : "YYYY [m.] MMMM D [d.], LT [val.]",
-            llll : "YYYY [m.] MMMM D [d.], ddd, LT [val.]"
+            llll : "YYYY [m.] MMMM D [d.], ddd, LT [val.]",
+            zl : "YYYY [m.] MMMM D [d.], ddd"
         },
         calendar : {
             sameDay : "[Šiandien] LT",

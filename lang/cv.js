@@ -22,7 +22,8 @@
             L : "DD-MM-YYYY",
             LL : "YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ]",
             LLL : "YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ], LT",
-            LLLL : "dddd, YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ], LT"
+            LLLL : "dddd, YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ], LT",
+            ZL : "dddd, YYYY [çулхи] MMMM [уйăхĕн] D[-мĕшĕ]"
         },
         calendar : {
             sameDay: '[Паян] LT [сехетре]',

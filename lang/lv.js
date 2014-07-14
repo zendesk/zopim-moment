@@ -43,7 +43,8 @@
             L : "DD.MM.YYYY",
             LL : "YYYY. [gada] D. MMMM",
             LLL : "YYYY. [gada] D. MMMM, LT",
-            LLLL : "YYYY. [gada] D. MMMM, dddd, LT"
+            LLLL : "YYYY. [gada] D. MMMM, dddd, LT",
+            ZL : "YYYY. [gada] D. MMMM, dddd"
         },
         calendar : {
             sameDay : '[Šodien pulksten] LT',
