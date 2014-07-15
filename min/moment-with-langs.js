@@ -2759,7 +2759,7 @@
             LLL : "D MMMM YYYY LT",
             LLLL : "dddd D MMMM YYYY LT",
             ZL : "dddd D MMMM YYYY",
-            ZLL : "D MMMM YYYY"
+            ZLL : "D MMMM"
         },
         meridiem : function (hour, minute, isLower) {
             if (hour < 12) {
